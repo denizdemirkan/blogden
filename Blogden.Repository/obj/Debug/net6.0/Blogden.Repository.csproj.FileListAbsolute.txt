@@ -1,0 +1,17 @@
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\Blogden.Repository.deps.json
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\Blogden.Repository.runtimeconfig.json
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\Blogden.Repository.dll
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\ref\Blogden.Repository.dll
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\Blogden.Repository.pdb
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\Blogden.Core.dll
+D:\Repositories\Blogden\Blogden.Repository\bin\Debug\net6.0\Blogden.Core.pdb
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.csproj.AssemblyReference.cache
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.AssemblyInfoInputs.cache
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.AssemblyInfo.cs
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.csproj.CoreCompileInputs.cache
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.csproj.CopyComplete
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.dll
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\ref\Blogden.Repository.dll
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.pdb
+D:\Repositories\Blogden\Blogden.Repository\obj\Debug\net6.0\Blogden.Repository.genruntimeconfig.cache

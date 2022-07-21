@@ -1,0 +1,12 @@
+D:\Repositories\Blogden\Blogden.Core\bin\Debug\net6.0\Blogden.Core.deps.json
+D:\Repositories\Blogden\Blogden.Core\bin\Debug\net6.0\Blogden.Core.dll
+D:\Repositories\Blogden\Blogden.Core\bin\Debug\net6.0\ref\Blogden.Core.dll
+D:\Repositories\Blogden\Blogden.Core\bin\Debug\net6.0\Blogden.Core.pdb
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.csproj.AssemblyReference.cache
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.AssemblyInfoInputs.cache
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.AssemblyInfo.cs
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.csproj.CoreCompileInputs.cache
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.dll
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\ref\Blogden.Core.dll
+D:\Repositories\Blogden\Blogden.Core\obj\Debug\net6.0\Blogden.Core.pdb

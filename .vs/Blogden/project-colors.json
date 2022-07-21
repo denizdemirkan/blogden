@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc20d27a-0098-4fb8-bb0f-a4a5755454a3": {
+      "ProjectGuid": "bc20d27a-0098-4fb8-bb0f-a4a5755454a3",
+      "DisplayName": "Blogden.Core",
+      "ColorIndex": 0
+    },
+    "497ecad9-29dd-4807-bae0-68ad4b617b7a": {
+      "ProjectGuid": "497ecad9-29dd-4807-bae0-68ad4b617b7a",
+      "DisplayName": "Blogden.Repository",
+      "ColorIndex": 1
+    },
+    "34111956-ae8a-442e-b97a-faf0dbfa87da": {
+      "ProjectGuid": "34111956-ae8a-442e-b97a-faf0dbfa87da",
+      "DisplayName": "Blogden.Service",
+      "ColorIndex": 2
+    },
+    "af79e6e2-f53f-4089-9c93-d07bc63bf554": {
+      "ProjectGuid": "af79e6e2-f53f-4089-9c93-d07bc63bf554",
+      "DisplayName": "Blogden.Web.MVC",
+      "ColorIndex": 3
+    },
+    "5c95b57b-353d-4686-8d80-72c978eecdf2": {
+      "ProjectGuid": "5c95b57b-353d-4686-8d80-72c978eecdf2",
+      "DisplayName": "Blogme.Web.API",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
